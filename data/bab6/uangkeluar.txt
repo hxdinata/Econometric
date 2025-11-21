@@ -1,0 +1,17 @@
+Mahasiswa	Y	X1	X2	X3
+1	550	1500	1	mobil
+2	250	1000	1	motor
+3	160	700	0	bus
+4	145	750	1	bus
+5	575	1800	0	mobil
+6	250	1100	0	motor
+7	280	1200	1	motor
+8	90	650	1	lainnya
+9	560	2000	0	mobil
+10	300	1100	0	motor
+11	290	1000	1	motor
+12	320	900	1	motor
+13	550	1500	1	mobil
+14	150	600	0	bus
+15	140	750	0	bus
+16	90	600	0	lainnya
